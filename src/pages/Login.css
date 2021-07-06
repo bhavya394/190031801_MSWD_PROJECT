@@ -1,0 +1,40 @@
+.body{
+				font-family: Cambria;
+				color: black;
+				
+        background-repeat: no-repeat;
+			  background-attachment: fixed;
+			  background-size: cover;
+}
+.table {
+			  width: 30%;
+			  border: none;
+			}
+.td {
+				width: 150px;
+			}
+.input {
+			    width: 100%;
+			    border-style: solid;
+			    border-color: silver;
+			}
+
+.fit{
+				background-color:white;
+				border-radius: 5px;
+				padding-top: 10px;
+				padding-bottom: 10px;
+			}
+.btn {
+				background-color: #43B494;
+				border-color: #43B494;
+				color: white;
+				font-weight: bold;
+				font-size: 14px;
+				width: 100%;
+}
+
+
+	
+
+
